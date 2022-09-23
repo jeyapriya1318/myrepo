@@ -1,0 +1,26 @@
+
+
+
+
+hi this is ""ur name"" im from Madurai. Totally i have 4 years of IT exp, where in 3 yeras as a aws & devops engineer.
+previously im working in ""ur companyname"".
+i have used various devops tools in my project 
+we used git for version control
+and jenkins , gitlabrunner for cicd
+then terraform for infra spin up
+and ansible for configuring all our servers running in aws.
+and i have strong experience in  aws cloud as well as,
+In aws , i have expericed in ec2, s3, iam, vpc, route53, VPC, cloudfront, sns, sqs, cloudwatch and ELB.
+
+day to day activities:
+
+1)we will be getting tickets in the service now or jira form developers.
+2)based on the priority we resolve the issues
+3)mostly we will be getting the tickets to deploy the updated docker image version into all env
+4)every week thurday we have scrum call with our team there we need to update the status of all job
+5)we have SLA with our customer within the time limit the issues need to resolve
+6)and also ill be in production on call support every week.
+7)checking the health of microservices regularly
+----------------------------------------------------------------------
+
+
