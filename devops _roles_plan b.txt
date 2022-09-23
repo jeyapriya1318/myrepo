@@ -2,10 +2,7 @@
 
 
 
-hi this is ""ur name"" im from Madurai. Totally i have 4 years of IT exp, where in 3 yeras as a aws & devops engineer.
-previously im working in ""ur companyname"".
-i have used various devops tools in my project 
-we used git for version control
+
 and jenkins , gitlabrunner for cicd
 then terraform for infra spin up
 and ansible for configuring all our servers running in aws.
